@@ -1,46 +1,61 @@
 # 💫 About Me
 
-🎓 **Computer Science Undergraduate | Full-Stack Developer | Network Security Enthusiast**
+🎓 **Computer Science Undergraduate | Aspiring Network & Cloud Engineer | NetDevOps Enthusiast**
 
-Computer Science undergraduate at **Air University, Islamabad**, with hands-on experience in **full-stack development**, **databases**, **machine learning**, and **network/security fundamentals**. Passionate about building scalable systems, real-time applications, and security-focused solutions.
+I am a Computer Science undergraduate at **Air University, Islamabad**, with a strong foundation in 
+**computer networks, cloud infrastructure, and automation**. I approach networking with a 
+**software-first mindset**, focusing on **Infrastructure as Code (IaC)**, **network automation**, 
+and **secure, scalable system design**.
+
+My background in **full-stack development and backend systems** enables me to bridge the gap between 
+software and infrastructure — a skillset increasingly demanded in modern **NetDevOps and Cloud 
+Networking roles**.
+
+📘 Currently preparing for **CCNA** and building **hands-on labs** in routing, switching, 
+cloud networking, and automation using **Git-based workflows**.
+
+---
+
+## 🎯 Career Focus
+
+- Network Engineering & Automation
+- Cloud Networking (AWS / Azure)
+- NetDevOps & Infrastructure as Code
+- Secure & Scalable Systems Design
 
 ---
 
 ## 🚀 Technical Highlights
 
-- 🧩 **Full-Stack Development:**  
-  Next.js, NestJS, React, Node.js, RESTful APIs
+### 🌐 Networking & Cloud
+- Computer Networks (TCP/IP, Routing & Switching)
+- VLANs, OSPF, NAT, ACLs (lab-based learning)
+- Network Security fundamentals (ZTNA, secure design concepts)
+- AWS & Azure Networking basics
+- Preparing for **CCNA**
 
-- ⚡ **Real-Time Systems:**  
-  SignalR, Socket.IO, event-driven communication
+### ⚙️ Automation & DevOps Foundations
+- Git & GitHub (version-controlled infrastructure)
+- Python for automation & scripting
+- YAML / JSON
+- CI/CD fundamentals (learning phase)
 
-- 🗄️ **Databases & Backend:**  
-  SQL, PostgreSQL, MySQL, Oracle APEX, Prisma, C++–MySQL integration
+### 🧩 Backend & Systems
+- RESTful API design
+- Node.js, NestJS
+- SQL-based systems & database-backed applications
 
-- 🤖 **Machine Learning:**  
-  Model training and experimentation using **ResNet50**, PyTorch, scikit-learn  
-  *(focused on efficient training strategies)*
+### 🤖 Machine Learning (Supporting Skill)
+- Model training & experimentation (ResNet50)
+- PyTorch, scikit-learn
+- Focus on efficient training strategies
 
-- 📱 **Mobile Development:**  
-  Flutter & Dart (cross-platform fundamentals)
-
-- 🌐 **Networking & Security:**  
-  Currently studying **Computer Networks**  
-  Exploring **Network Security**, **ZTNA**, and secure system design  
-  📘 Preparing for **CCNA**
-
-- 🏆 **Competitive Experience:**  
-  Participant in **SOFTEC** coding and web development competitions
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-ali-737492277/)
+### 📱 Cross-Platform Development
+- Flutter & Dart fundamentals
 
 ---
 
-## 💻 Tech Stack
+## 🧰 Tech Stack
 
 ### 👨‍💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -60,23 +75,42 @@ Computer Science undergraduate at **Air University, Islamabad**, with hands-on e
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net)
 
 ### 🗄️ Databases & Cloud
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws)
 ![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure)
 
-### 🤖 ML & Data
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
-
-### 🧰 Dev & Design
+### 🔧 DevOps, Automation & Networking
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
+
+---
+
+## 🧪 Labs & Projects (In Progress)
+
+- 🔹 **CCNA Network Labs** (Routing, Switching, Security)
+- 🔹 **Network Automation with Ansible**
+- 🔹 **Cloud Networking (AWS VPC, Subnets, Routing)**
+- 🔹 **Infrastructure as Code with Terraform**
+
+📌 All labs are documented and version-controlled using GitHub.
+
+---
+
+## 🏆 Competitive & Academic Experience
+
+- Participant — **SOFTEC Coding & Web Development Competitions**
+- Strong foundation in **data structures, systems, and networking**
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-ali-737492277/)
 
 ---
 
@@ -95,3 +129,4 @@ Computer Science undergraduate at **Air University, Islamabad**, with hands-on e
 ---
 
 ![](https://visitcount.itsvg.in/api?id=HassanAli206&icon=0&color=0)
+
